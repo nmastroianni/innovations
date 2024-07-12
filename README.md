@@ -1,6 +1,7 @@
 # A Timeline Project
 
 This repository was created for an assignment Foundations in Instructional Technology at [American College of Education](https://ace.edu).
+
 Notes:
 
 - In order to make the vertical timeline work properly, NextJS version 13.4.8 was used. If you update the version of NextJS, it is possible for the visibility and animations of the timeline to stop working.
