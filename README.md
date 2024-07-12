@@ -1,3 +1,12 @@
+# A Timeline Project
+
+This repository was created for an assignment Foundations in Instructional Technology at [American College of Education](https://ace.edu).
+Notes:
+
+- In order to make the vertical timeline work properly, NextJS version 13.4.8 was used. If you update the version of NextJS, it is possible for the visibility and animations of the timeline to stop working.
+- Use the data.ts file to control your page content.
+- To adjust colors, you will need to edit the layout.tsx and page.tsx files.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
