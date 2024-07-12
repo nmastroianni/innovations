@@ -1,3 +1,6 @@
+/**
+ * Add/Edit this list of technology leaders
+ */
 export const innovations = [
   {
     leader: 'FirstName LastName',
@@ -7,6 +10,13 @@ export const innovations = [
     benefits: ['benefit 1', 'benefit 2'],
   },
 ]
+/**
+ * Here you can create two introductory paragraphs if needed.
+ */
+export const intro = {
+  paragraph1: '',
+  paragraph2: '',
+}
 /**
  * Control your meta data and your footer here
  */
