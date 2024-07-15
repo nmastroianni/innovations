@@ -41,7 +41,7 @@ export default function Innovations() {
               <p className="!mt-0 !pb-3 !text-2xl font-normal">
                 {item.innovation}
               </p>
-              <p className="!my-4 !font-normal text-gray-700 dark:text-white/75">
+              <p className="!my-4 !font-normal text-slate-100">
                 {item.description}
               </p>
               <hr className="border-slate-700" />
